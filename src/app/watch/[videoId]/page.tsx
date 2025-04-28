@@ -1,3 +1,4 @@
+import AuthGuard from '@/components/AuthGuard';
 import videoData from '@/data/videos.json';
 import Link from 'next/link';
 import { notFound } from 'next/navigation'; // Per gestire video non trovati
@@ -10,18 +11,12 @@ interface Video {
   collection: string;
 }
 
-interface WatchPageProps {
-  params: {
-    videoId: string; // Il nome della cartella [videoId] diventa la chiave qui
-  };
-}
-
 // Funzione per trovare il video per ID
 function findVideoById(id: string): Video | undefined {
   return (videoData as Video[]).find(video => video.id === id);
 }
 
-export default function WatchPage({ params }: WatchPageProps) {
+export default function WatchPage({ params }: { params: { videoId: string } }) {
   const videoId = params.videoId;
   const video = findVideoById(videoId);
 
