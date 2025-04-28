@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dQw4w9WgXcQ",
+    "title": "Introduzione alla Piattaforma",
+    "description": "Un breve video di benvenuto che illustra le funzionalità principali del nostro nuovo Video Hub.",
+    "collection": "Onboarding"
+  },
+  {
+    "id": "QH2-TGUlwu4",
+    "title": "Configurazione Iniziale Account",
+    "description": "Guida passo-passo per configurare il tuo profilo e le preferenze iniziali.",
+    "collection": "Onboarding"
+  },
+  {
+    "id": "3JZ_D3ELwOQ",
+    "title": "Navigare le Raccolte Video",
+    "description": "Scopri come esplorare le diverse categorie e trovare i video di tuo interesse.",
+    "collection": "Onboarding"
+  },
+  {
+    "id": "6stlCkUDG_s",
+    "title": "Panoramica Prodotto X - Parte 1",
+    "description": "Analisi dettagliata delle caratteristiche fondamentali del Prodotto X.",
+    "collection": "Prodotto"
+  },
+  {
+    "id": "h335zn2y1fY",
+    "title": "Prodotto X - Funzionalità Avanzate",
+    "description": "Approfondimento sulle funzionalità avanzate e casi d'uso specifici.",
+    "collection": "Prodotto"
+  },
+  {
+    "id": "J---aiyznGQ",
+    "title": "Aggiornamento Prodotto Y - Q3",
+    "description": "Le novità introdotte nell'ultimo aggiornamento trimestrale del Prodotto Y.",
+    "collection": "Prodotto"
+  },
+  {
+    "id": "MlltC3GDWNc",
+    "title": "Come usare il CRM Aziendale",
+    "description": "Tutorial sull'utilizzo efficace del nostro sistema CRM interno.",
+    "collection": "Formazione Interna"
+  },
+  {
+    "id": "cc3dqC44crw",
+    "title": "Best Practice Sicurezza Informatica",
+    "description": "Linee guida essenziali per mantenere sicuri i dati aziendali e personali.",
+    "collection": "Formazione Interna"
+  },
+  {
+    "id": "1yqgoVZrhEc",
+    "title": "Evento Aziendale Annuale 2023 - Highlights",
+    "description": "I momenti salienti del nostro ultimo grande evento aziendale.",
+    "collection": "Eventi"
+  },
+  {
+    "id": "zUwB_imXC1Y",
+    "title": "Team Building Giugno 2024",
+    "description": "Ricordi e attività della giornata di team building di quest'estate.",
+    "collection": "Eventi"
+  },
+  {
+    "id": "Bey4XXJAqS8",
+    "title": "Intervista CEO - Visione Futura",
+    "description": "Il nostro CEO condivide la visione strategica per i prossimi anni.",
+    "collection": "Comunicazioni Aziendali"
+  },
+  {
+    "id": "u31qwQUeGuM",
+    "title": "Presentazione Risultati Q2",
+    "description": "Analisi dei risultati finanziari e operativi del secondo trimestre.",
+    "collection": "Comunicazioni Aziendali"
+  }
+] 
